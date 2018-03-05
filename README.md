@@ -1,0 +1,4 @@
+# Human_Resources_Descriptive_Analysis
+## Abstract
+
+In the last decades, having the best machines was enough to be competitive or to dominate an industrial sector. Nowadays, the company that has more engaged and productive employees will have a better chance of winning market competition. For this reason, companies can not lose important employees and when that begins to happen you need to understand why, to prevent this from happening. The Human Resorces Analytics dataset, is used to explain the first steps in the data analysis path. In this first part is presented how to get familiarize itself with the data set by performing the descriptive analysis. Techniques such as exploratory data analysis (EDA) allow us to present the data in a more meaningful way, applying general statistical methods and exploratory graphics, that allow a simpler interpretation before engage a machine learning algorithm.
